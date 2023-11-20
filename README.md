@@ -1,8 +1,8 @@
 # The-global-health-and-economic-value-of-COVID-19-vaccination
 
-This repository contains supplementary materials for the article "The Global Health and Economic Value of COVID-19 Vaccination" by JP Sevilla, Daria Burnes, Joseph S. Knee, Manuela Di Fusco, Moe Hein Kyaw, Jennifer Nguyen, Jingyan Yang, and David Bloom.
+This repository contains supplementary materials for the article "The Global Health and Economic Value of COVID-19 Vaccination" by JP Sevilla, Daria Burnes, Joseph S. Knee, Manuela Di Fusco, Moe Hein Kyaw, Jennifer Nguyen, Jingyan Yang, and David Bloom. Per the journal's copyright and reuse guidelines, this material is published under a CC BY-NC-ND license.
 
-Its contents include:
+The repository's contents include:
 - **code** - a folder containing all Stata and Python code that was used in the analysis.
     * **python_code** - a folder containing all the Python code used.
     * **stata_code** - a folder containing all the Stata code used.
